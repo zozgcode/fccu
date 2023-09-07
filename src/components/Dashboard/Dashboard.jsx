@@ -49,7 +49,7 @@ export default function Dashboard() {
               <h2 className="saving_account_name">
                 {user.savingAccountName}{" "}
                 <span className="price saving_account_price">
-                  £{user.savingAccountAmount}
+                  ${user.savingAccountAmount}
                 </span>
               </h2>
             </>
@@ -101,7 +101,7 @@ export default function Dashboard() {
             <input type="text" />
           </div>
           <div>
-            <label>Amount (£)</label>
+            <label>Amount ($)</label>
             <input type="text" />
           </div>
           <div>
