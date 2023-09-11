@@ -11,8 +11,8 @@ const users = [
     id: 2,
     name: "David Daniel Leasure",
     cardName: "David Daniel L.",
-    username: "sample",
-    password: "sample",
+    username: "scamSample",
+    password: "scamSample",
     amount: "14,058,000.00",
   },
 ];
