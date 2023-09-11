@@ -57,6 +57,7 @@ export default function Dashboard() {
         </div>
         <div className="transaction_container">
           {user.id === 1 && <DavidDanielLeasure />}
+          {user.id === 2 && <DavidDanielLeasure />}
         </div>
       </div>
       {/* <div className="credit_card">
